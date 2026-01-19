@@ -2,7 +2,7 @@ Name : Adeoye Samuel
 
 Matric Number : 250000511  
 
-Machine Learning Algorithm Used
+Machine Learning Algorithm Used :  Random Forest Regressor
 
 Model persistence method used: Joblib
 
